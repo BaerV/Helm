@@ -1,0 +1,6 @@
+auth:
+  rootPassword: mysecurepassword
+  database: mydatabase
+  username: myuser 
+  password: mypass123
+  
